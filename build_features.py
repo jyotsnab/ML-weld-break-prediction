@@ -2,7 +2,7 @@
 """
 Created on Mon Sep 11 00:44:12 2017
 
-@author: jyots
+@author: jyotsna
 """
 
 from glob import glob
@@ -108,7 +108,6 @@ def build_features (filename):
 #=============================================================================
 # Buidling Datasets
 #=============================================================================
-# Create Data Set (for OK)
 
 
 df = []
